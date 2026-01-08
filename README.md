@@ -2,7 +2,7 @@
 This repository contains various artifacts that supplement our work on **Enter the Dragon’s Dojo: Computing Interview Questions for Human Experts to Classify Database Keys as Meaningful**.
 # Online demo
 Visit the [website](http://4b7a20e.r31.cpolar.top) to interview for keys online! If the link is not accessible, please report an issue.
-# Requirements for Demo Deployment
+# Requirements for demo deployment
 > 1. Software requirements
 >> Java with version 17; Java Springboot
 # Deploy the demo on your PC
